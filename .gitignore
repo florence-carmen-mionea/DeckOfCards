@@ -49,6 +49,7 @@ ui.apps/src/main/content/jcr_root/etc/cloudservices/dynamictagmanagement/.conten
 
 ui.content/src/main/content/jcr_root/.content.xml
 ui.content/src/main/content/jcr_root/content/dam/.content.xml
+ui.content/src/main/content/jcr_root/content/dam/
 ui.content/src/main/content/jcr_root/content/forms/.content.xml
 ui.content/src/main/content/jcr_root/content/forms/af/.content.xml
 ui.content/src/main/content/jcr_root/content/catalogs/.content.xml
